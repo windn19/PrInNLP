@@ -19,4 +19,3 @@ python app.py
 
 Выполнил Дмитрий Носков.
 
-add new account - windn1982
